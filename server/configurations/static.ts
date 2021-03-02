@@ -1,0 +1,1 @@
+export const baseUrl = "https://vpic.nhtsa.dot.gov/api/";
